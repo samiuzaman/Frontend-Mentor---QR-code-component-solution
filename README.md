@@ -64,13 +64,11 @@ I have Learning html css practical knowledge
 - ([https://www.example.com](https://www.frontendmentor.io/)) -  This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - ([https://www.example.com](https://www.w3schools.com/)) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@samiuzaman](https://www.frontendmentor.io/profile/samiuzaman))
+- Twitter - [@samiuzzaman201](https://www.twitter.com/samiuzzaman201)
+- LinkedIn - [@samiuzaman/](https://www.linkedin.com/in/samiuzaman)
 
 
 
