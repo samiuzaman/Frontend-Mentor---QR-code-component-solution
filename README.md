@@ -61,8 +61,8 @@ I have Learning html css practical knowledge
 
 ### Useful resources
 
-- ([https://www.example.com](https://www.frontendmentor.io/)) -  This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- ([https://www.example.com](https://www.w3schools.com/)) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- ([Frontend Mentor](https://www.frontendmentor.io/)) -  This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- ([W3Schools](https://www.w3schools.com/)) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
